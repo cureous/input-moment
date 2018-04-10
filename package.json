@@ -1,6 +1,6 @@
 {
-  "name": "input-moment-cureous",
-  "version": "0.1",
+  "name": "@cureous/input-moment-cureous",
+  "version": "0.0.1",
   "description": "input-moment with small additions",
   "main": "index.js",
   "scripts": {
